@@ -1,0 +1,7 @@
+import './FuncName.css'
+
+export default function FuncName() {
+    return (
+        <div></div>
+    )
+}

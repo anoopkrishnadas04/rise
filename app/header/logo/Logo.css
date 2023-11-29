@@ -1,0 +1,12 @@
+#logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    justify-self: flex-start;
+}
+
+#logo-img {
+    width: auto;
+    height: 72px;
+}

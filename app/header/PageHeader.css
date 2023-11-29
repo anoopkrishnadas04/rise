@@ -1,0 +1,10 @@
+header {
+    background-color: #42f551;
+    height: 80px;
+    flex: 0 0 auto;
+    
+    justify-self: flex-start;
+
+
+    display: flex;
+}

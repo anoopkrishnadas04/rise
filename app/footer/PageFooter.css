@@ -1,0 +1,21 @@
+footer {
+    background-color: #42f551;
+    padding: 8px;
+    color: #000;
+
+    justify-self: flex-end;
+
+    flex: 0 0 auto;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#footer-text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    padding-right: 16px;
+    font-weight: bold;
+}
+
