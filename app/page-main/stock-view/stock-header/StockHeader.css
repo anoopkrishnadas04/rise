@@ -1,0 +1,14 @@
+#header-container {
+    flex: 0 1 auto;
+    display: flex;
+    font-size: 30px;
+    
+    padding: 20px;
+
+    border-bottom: 6px solid #42f551;
+    
+}
+
+#header-container > div{
+    
+}

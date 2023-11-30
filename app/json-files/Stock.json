@@ -1,0 +1,10 @@
+{
+    "ticker": "MSFT",
+    "url": "https://finance.yahoo.com/quote/MSFT?p=MSFT",
+    "market_price": "378.85",
+    "market_change": "-3.850006",
+    "market_percentage": "-0.010060115",
+    "headers": {
+        "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0"
+    }
+}

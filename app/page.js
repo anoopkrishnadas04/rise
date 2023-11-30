@@ -1,4 +1,4 @@
-import PageMain from './main-content/PageMain'
+import PageMain from './page-main/PageMain'
 
 export default function Home() {
     return (

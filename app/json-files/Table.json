@@ -1,0 +1,38 @@
+{
+    "table_headers": [
+        "Previous Close",
+        "Open",
+        "Bid",
+        "Ask",
+        "Day's Range",
+        "52 Week Range",
+        "Volume",
+        "Avg. Volume",
+        "Market Cap",
+        "Beta (5Y Monthly)",
+        "PE Ratio (TTM)",
+        "EPS (TTM)",
+        "Earnings Date",
+        "Forward Dividend & Yield",
+        "Ex-Dividend Date",
+        "1y Target Est"
+    ],
+    "table_data": [
+        "246.72",
+        "249.21",
+        "0.00 x 1000",
+        "0.00 x 1000",
+        "242.76 - 252.75",
+        "101.81 - 299.29",
+        "134,767,027",
+        "121,537,804",
+        "776.101B",
+        "2.28",
+        "78.75",
+        "3.10",
+        "Jan 23, 2024 - Jan 29, 2024",
+        "N/A (N/A)",
+        "N/A",
+        "205.23"
+    ]
+}

@@ -1,0 +1,11 @@
+#buttons-container {
+    justify-self: flex-end;
+    align-self: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+#buttons-container > button {
+    margin: 20px 40px;
+    padding: 5px 15px;
+}
