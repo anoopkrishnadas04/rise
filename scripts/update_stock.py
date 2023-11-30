@@ -1,7 +1,5 @@
 import sys
 
-sys.path.append("./DataManager")
-
 from Stock import Stock
 import json
 

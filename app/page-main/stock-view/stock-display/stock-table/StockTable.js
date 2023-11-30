@@ -7,7 +7,7 @@ export default function StockTable({key, val}) {
     
     return (
         <div id="table-container">
-            <TableData name="dog"  data={valArr[0]} />
+            <TableData name={keyArr[0]}  data={valArr[0]} />
             <TableData name={keyArr[1]}  data={valArr[1]} />
             <TableData name={keyArr[2]}  data={valArr[2]} />
             <TableData name={keyArr[3]}  data={valArr[3]} />

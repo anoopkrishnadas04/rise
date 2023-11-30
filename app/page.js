@@ -1,6 +1,8 @@
 import PageMain from './page-main/PageMain'
 
 export default function Home() {
+    const spawn = require("child_process").spawn;
+    const pythonProcess = spawn('python,["path/to/script.py", arg1, arg2, ...]');
     return (
         <PageMain />
     )
