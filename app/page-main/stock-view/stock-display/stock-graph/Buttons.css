@@ -2,10 +2,11 @@
     justify-self: flex-end;
     align-self: center;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    width: 100%;
 }
 
 #buttons-container > button {
-    margin: 20px 40px;
+    margin: 10px;
     padding: 5px 15px;
 }

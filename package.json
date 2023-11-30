@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "prestart": "python3 ./scripts/update_stock.py",
     "start": "next start",
     "lint": "next lint"
   },

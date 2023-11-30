@@ -1,11 +1,10 @@
 import './StockGraph.css'
 import Buttons from './Buttons'
 
-export default function StockGraph() {
+export default function StockGraph(props) {
     return (
         <div id="graph-parts-container">
             <div id="graph-container">
-                Graph
             </div>
             <Buttons />
         </div>
